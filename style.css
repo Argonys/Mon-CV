@@ -2,6 +2,10 @@ body {
     background-color: darkslategray;
 }
 
+img {
+    width: 220px;
+}
+
 .page {
     width: 900px;
     margin: auto;
