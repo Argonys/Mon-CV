@@ -3,4 +3,4 @@ Exercice de création d'un CV en html &amp; CSS
 
 
 
-https://sirlys.github.io/Mon-CV/
+https://argonys.github.io/Mon-CV/
